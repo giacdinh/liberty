@@ -141,6 +141,13 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 18px;
+}
 </style>
 
 
